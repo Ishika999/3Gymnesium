@@ -20,13 +20,13 @@
 
 ## APIS End Points:
 
-* Macro Calculator: https://www.myfitnesspal.com/food/search
-* Workout GIFs: https://www.shapefit.com/
+* Macro Calculator API: https://www.myfitnesspal.com/food/search
+* Workout GIFs API: https://www.shapefit.com/
 * Nutrition Facts API : https://edamam-food-and-grocery-database.p.rapidapi.com/
 * Recipe API : https://recipe-puppy.p.rapidapi.com/
 * YouTube Search API: https://youtube-search1.p.rapidapi.com/
 * GIF Search API: https://giphy.p.rapidapi.com/
-* ChatBot: https://acobot-brainshop-ai-v1.p.rapidapi.com/
+* ChatBot API: https://acobot-brainshop-ai-v1.p.rapidapi.com/
 
 ## Other references:
 
